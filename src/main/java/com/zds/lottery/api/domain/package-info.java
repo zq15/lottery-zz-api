@@ -1,0 +1,1 @@
+package com.zds.lottery.api.domain;
